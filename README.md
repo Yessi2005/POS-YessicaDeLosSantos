@@ -20,15 +20,27 @@ Sistema de punto de venta (POS) que permite gestionar ventas, inventario y clien
 
 
 
-\## Ejecución
+\## Instalación
 
-1\. Abrir el proyecto en NetBeans
+1\. Clonar el repositorio
 
-2\. Ejecutar la aplicación
+2\. Abrir el pryecto en Netbeans o el IDE correspondiente
+
+3\. Ejecutar la clase principal
+
+\## Ejecución 
+
+1\. Ejecutar el archivo del sistema desde el IDE.
+
+\## Capturas del sistema 
 
 
 
-\## 👩‍💻 Autor
 
-Yessica De Los Santos 
+\## Autor
+Carrera: ISIC
+Nombre: Yessica De Los Santos
+Semestre: 6to
+Grupo: B
+Materia: Ingeniería de Software
 
