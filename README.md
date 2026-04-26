@@ -40,8 +40,12 @@ Sistema de punto de venta (POS) que permite gestionar ventas, inventario y clien
 \## Autor
 
 1\. Carrera: ISIC
+
 2\. Nombre: Yessica De Los Santos
+
 3\. Semestre: 6to
+
 4\. Grupo: B
+
 5\. Materia: Ingeniería de Software
 
